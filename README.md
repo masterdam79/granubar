@@ -12,8 +12,6 @@ A web-interface will also provide easy interaction with the scripts and authenti
 This will be a Linux-only solution and the server scripts will primarly be installable on CentOS 7 being able to connect to any Linux machine with SSH access.
 
 ## Dependencies
-#  Edited descriptop to be more realistic version as I do hope that Linux itself will not be installed automagicly by the installer
-#  The Linux entry should probably be removed as it's mentioned above 
 The scripts will use the following techniques and open source software which the installer will automatically install where applicable.
 * Linux
 * Apache
