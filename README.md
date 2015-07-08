@@ -8,8 +8,8 @@ The backup and recovery scripts will be located in the user space and the user w
 
 A web-interface will also provide easy interaction with the scripts and authentication will be done using standard Linux PAM.
 
-# Scope
-This will be a Linux-only solution
+## Scope and compatibility
+This will be a Linux-only solution and the server scripts will primarly be installable on CentOS 7 being able to connect to any Linux machine with SSH access.
 
 ## Targets
 * The project will seek compatibility with ReaR for disaster recovery.
