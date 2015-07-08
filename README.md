@@ -11,5 +11,17 @@ A web-interface will also provide easy interaction with the scripts and authenti
 ## Scope and compatibility
 This will be a Linux-only solution and the server scripts will primarly be installable on CentOS 7 being able to connect to any Linux machine with SSH access.
 
+## Dependencies
+The scripts will use the following techniques and open source software which the install script will automatically install.
+* Linux
+* Apache
+* MySQL
+* PHP
+* rdiff
+* rsync
+* mysqldump
+* tar
+* gzip
+
 ## Targets
-* The project will seek compatibility with ReaR for disaster recovery.
+* The project will seek compatibility with ReaR (https://github.com/rear/rear) for disaster recovery but methods are of this moment unsure.
