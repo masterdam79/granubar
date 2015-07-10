@@ -25,3 +25,14 @@ The scripts will use the following techniques and open source software which the
 
 ## Targets
 * The project will seek compatibility with ReaR (https://github.com/rear/rear) for disaster recovery but methods are of this moment unsure.
+
+## Security
+The security should of course be tight, especially because the back-up server will most probably connect to the remote machine using root-credentials.
+
+## Encryption
+Files should be encrypted before transmit to the backup server.
+
+# Todo
+* Think about the setup
+* Think about the security
+* Think about the encryption
