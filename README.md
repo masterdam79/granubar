@@ -1,5 +1,5 @@
 # Granubar
-open-source self-hosted multi-tenant *Gr*(a)*nu*(lar) *ba*(ckup and )*r*(ecovery).
+open-source self-hosted multi-tenant **Gr**(a)**nu**(lar) **ba**(ckup and )**r**(ecovery).
 
 ## Goal
 The aim is to provide scripts to create a centralised server using normal linux users from which granular backups and recovery can be done.
